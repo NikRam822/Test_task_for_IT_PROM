@@ -1,5 +1,6 @@
 # Test_task_for_IT_PROM
-Spring boot + vue project
+Spring boot + vue project.
+
 Mono repository.
 The frontend is located here: Test_task_for_IT_PROM/demo/frontend/
 
